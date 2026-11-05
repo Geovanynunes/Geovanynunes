@@ -50,7 +50,7 @@ Atuei no setor de Licitação da prefeitura da minha cidade, em contato direto c
 
 ### 🏥 ConectaSaúde — Comunicação em massa para postos de saúde
 
-Sistema web desenvolvido **com a orientação do professor Marcos Mendes** e **utilizado em um posto de saúde**. Ele permite que a equipe avise os pacientes de forma rápida — por exemplo, quando um remédio chegou ou quando um exame/encaminhamento foi autorizado — sem precisar ligar um por um.
+Sistema web desenvolvido com a finalidade de automatizar processos, **utilizado em um posto de saúde**. Ele permite que a equipe avise os pacientes de forma rápida — por exemplo, quando um remédio chegou ou quando um exame/encaminhamento foi autorizado — sem precisar enviar mensagens um por um.
 
 **O que ele faz:**
 
