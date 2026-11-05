@@ -12,7 +12,7 @@
 
 ## 👋 Olá, eu sou o Geovany!
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou construindo minha carreira como **programador**. Gosto de transformar ideias em sistemas que realmente são usados — e já tive a chance de ver um deles funcionando na prática, ajudando pessoas.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou construindo minha carreira como **programador**. Gosto de transformar ideias em sistemas que realmente são usados.
 
 - 🎓 Cursando ADS
 - 🎯 Foco em desenvolvimento **back-end** com Java e Spring Boot
