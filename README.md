@@ -18,6 +18,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou constr
 - 🎯 Foco em desenvolvimento **back-end** com Java e Spring Boot
 - 🌱 Sempre aprendendo: Spring Security, Docker, banco de dados e boas práticas
 - 🤝 Aberto a estágios, projetos e colaborações
+- 📄 [Baixar currículo](https://github.com/Geovanynunes/Geovanynunes/blob/main/curriculo/Geovany-Nunes-Goncalves.pdf)
 
 ---
 
